@@ -2,8 +2,11 @@
   "profiles": {
     "OmaUlesanne": {
       "commandName": "Project",
-      "commandLineArgs": "--port 5050",
-      "workingDirectory": "C:\\Users\\opilane\\source\\repos\\Aleksander Rogovski TARpv22\\OmaUlesanne"
+      "remoteDebugEnabled": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
     }
   }
 }

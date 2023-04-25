@@ -8,7 +8,7 @@ namespace OmaUlesanne
 {
     public class func
     {
-        public static string Massiv(int[,] mas)
+        public static void Massiv(int[,] mas)
         {
             for (int i = 0; i < 4; i++)
             {

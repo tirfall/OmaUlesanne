@@ -13,7 +13,7 @@ namespace OmaUlesanne
             switch (valik)
             {
                 case 1:
-                    Console.WriteLine(func.Massiv(massiiv));
+                    func.Massiv(massiiv);
                     break;
                 case 2:
                     Console.WriteLine("Sisesta number:");
